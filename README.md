@@ -9,5 +9,6 @@ Va a aparecer tu perfil de GitHub en la solicitud. Recuerda que había una tarea
 ---
 
 ## 👥 Participantes
+Izan Valverde Marín
 [Tomas Palma Sanchez](https://tomasps.com)
 Jonathan Ortiz Belmar
